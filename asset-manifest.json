@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/fyp-ui/static/css/main.d494c052.css",
+    "main.css": "/fyp-ui/static/css/main.dd793a1f.css",
     "main.js": "/fyp-ui/static/js/main.5ab2fe14.js",
     "static/js/453.9f8fd2f2.chunk.js": "/fyp-ui/static/js/453.9f8fd2f2.chunk.js",
     "static/media/Sequel Sans Roman Disp.ttf": "/fyp-ui/static/media/Sequel Sans Roman Disp.f2c71255a79d4a370cc9.ttf",
-    "static/media/cube-abstract-ai-1920x1280.webp": "/fyp-ui/static/media/cube-abstract-ai-1920x1280.e0b4a17ce3702ef5bcfd.webp",
     "index.html": "/fyp-ui/index.html",
-    "main.d494c052.css.map": "/fyp-ui/static/css/main.d494c052.css.map",
+    "main.dd793a1f.css.map": "/fyp-ui/static/css/main.dd793a1f.css.map",
     "main.5ab2fe14.js.map": "/fyp-ui/static/js/main.5ab2fe14.js.map",
     "453.9f8fd2f2.chunk.js.map": "/fyp-ui/static/js/453.9f8fd2f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d494c052.css",
+    "static/css/main.dd793a1f.css",
     "static/js/main.5ab2fe14.js"
   ]
 }
